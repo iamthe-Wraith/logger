@@ -1,0 +1,29 @@
+{
+  "name": "@iamthe-Wraith/logger",
+  "version": "1.0.0",
+  "description": "A simple logger used for a CLI.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/iamthe-Wraith/logger.git"
+  },
+  "author": "iamthe-Wraith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamthe-Wraith/logger/issues"
+  },
+  "homepage": "https://github.com/iamthe-Wraith/logger#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^3.3.0",
+    "@typescript-eslint/parser": "^3.3.0",
+    "eslint": "^7.3.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.21.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  },
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
